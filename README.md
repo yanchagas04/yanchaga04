@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @yanchaga04
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Discord bots
-- 📫 If you want to talk with me chekc my Instagram @yanchagas04
+- 👋 Hi, my name is Yan. This GitHub profile was made with the purpose of store my codes and also share them with the community. If you want to use my codes, you won't have to pay for it, but I just please you to give the credits to me.
+- 👀 Python, C++ and still learning JS, Java and other languages...
+- 💞️ I’m looking to collaborate and learning how to make Discord bots, and I want to contribute in a Telegram bot too.
+- 📫 If you want to talk with me, send a DM on Instagram or Twitter -> @yanchagas04
 
-<!---
-yanchaga04/yanchaga04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-------------------------------------------------------------
+
+"When the people want the impossible, only liars can satisfy”
+― Thomas Sowell
